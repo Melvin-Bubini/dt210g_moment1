@@ -10,7 +10,7 @@
        };
 
        const heroStyle: React.CSSProperties = {
-         backgroundImage: "url('src/assets/basketballPic.jpg')",
+         backgroundImage: "url('/basketballPic.jpg')",
          backgroundSize: 'cover',
          backgroundPosition: 'center center',
          backgroundRepeat: 'no-repeat',
